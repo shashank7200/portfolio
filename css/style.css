@@ -88,9 +88,24 @@ hr {
 
 .resume {
     position: absolute;
-    right: 330px;
+    right: 90px;
     top: 55px;
 }
+
+#work {
+    position: absolute;
+    right: 200px;
+    top: 45px;
+
+}
+
+#about{
+    position: absolute;
+    top: 45px;
+    right: 280px;
+}
+
+
 
 .comp-img {
     width: 25%;
